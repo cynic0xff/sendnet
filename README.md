@@ -1,2 +1,2 @@
 # sendnet
-Email version CMS management
+Email versioning CMS management
