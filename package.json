@@ -1,0 +1,23 @@
+{
+  "name": "sendnet",
+  "version": "1.0.0",
+  "description": "Email version CMS management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynic0xff/sendnet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynic0xff/sendnet/issues"
+  },
+  "homepage": "https://github.com/cynic0xff/sendnet#readme",
+  "dependencies": {
+    "exceljs": "^1.7.0"
+  }
+}
